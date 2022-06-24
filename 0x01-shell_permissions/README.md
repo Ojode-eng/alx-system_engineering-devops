@@ -1,1 +1,1 @@
-script that sets the permission to the file
+Task 9. John Doe
